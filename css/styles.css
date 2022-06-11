@@ -303,7 +303,7 @@ img {
   fill: var(--icon-color);
 }
 .social-links-list .item:not(:last-child) {
-  padding-right: 10px;
+  margin-right: 10px;
 }
 .team-social-contact:hover,
 .team-social-contact:focus {
