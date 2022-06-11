@@ -215,14 +215,15 @@ img {
   margin-right: 30px;
 }
 .features-icon-zone {
-  padding: 25px 102.34px;
+  height: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   margin-bottom: 30px;
   background-color: var(--btn-background);
   border-radius: 4px;
 }
 .features-icon {
-  align-items: center;
-  justify-content: center;
 }
 /* ------------SECTION чем мы занимаемся----------- */
 .section-title {
